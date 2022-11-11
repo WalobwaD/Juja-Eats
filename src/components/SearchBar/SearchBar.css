@@ -66,6 +66,7 @@
     padding: .72rem 1.7rem;
     background-color: black;
     color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: 400;
     transition: background-color .5s;
 }

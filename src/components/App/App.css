@@ -37,8 +37,8 @@ input:focus {
 h1 {
   padding: 0.69rem 0;
   text-align: center;
-  background-color:black;
+  background-color:white;
   font-family: 'Lobster', cursive;
   font-size: 1.8rem;
-  color: whitesmoke;
+  color: black;
 }
